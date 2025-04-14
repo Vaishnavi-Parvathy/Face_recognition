@@ -10,7 +10,6 @@ Libraries:
 2.opencv-contrib
 3.numpy
 
-Demo:
-https://user-images.githubusercontent.com/59734392/132250330-190a79bb-9eab-46e9-943b-10dd2a166c89.MP4
+
 
 
